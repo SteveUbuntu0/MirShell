@@ -1,2 +1,2 @@
 # MirShell
-a user friendly shell, witten in python3.
+A user friendly shell, witten in python3.
