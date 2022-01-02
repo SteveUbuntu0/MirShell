@@ -38,4 +38,4 @@ Alpine
 
 如果你不能访问这个地址，请试试这个
 
-`git clone https://hub.fastgit.org/SteveUbuntu0/MirShell.git'
+`git clone https://hub.fastgit.org/SteveUbuntu0/MirShell.git`
