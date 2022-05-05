@@ -2,7 +2,6 @@
 
 ## Main
 If you can't read chinese, please translate this page
-This Program can't running on the Windows.
 
 一个对用户友好的 Shell，使用 Python 编写。
 
