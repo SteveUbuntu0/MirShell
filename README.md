@@ -1,4 +1,4 @@
-# 最近 MirShell 最近会尝试转到 C。
+# 最近 MirShell 会尝试转到 C。
 
 # MirShell
 
