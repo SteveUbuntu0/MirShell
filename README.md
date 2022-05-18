@@ -1,3 +1,5 @@
+# 最近 MirShell 最近会尝试转到 C。
+
 # MirShell
 
 ## Main
@@ -12,7 +14,7 @@ If you can't read chinese, please translate this page
 
 Debian Based 
 
-`sudo apt-get install git python3`
+`sudo apt install git python3`
 
 Redhat Based 
 
